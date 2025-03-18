@@ -6,10 +6,19 @@
 }
 
 body {
+    height: 100vh;
+    box-sizing: border-box;
     background-color: #070505; /* Cor de fundo */
     color: #f6f6f6; /* Cor do texto */
 
-}
+} 
 .titulo-destaque{
     color: #22D4FD; /* Cor do texto */
+}
+.apresentacao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
 }
