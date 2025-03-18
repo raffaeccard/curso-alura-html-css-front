@@ -60,6 +60,10 @@ body {
 }
 .apresentacao__links__link{
     text-decoration: none;
+    justify-content: center;
+    gap: 16px;
+    align-items: center;
+    display: flex;
     /* background-color: #22D4FD; Cor do fundo */
     color: #f6f6f6;
     font-size: 24px;
@@ -70,4 +74,8 @@ body {
     border: 2px solid #22D4FD;
     width: 371px;
     padding: 21.5px;
+}
+.apresentacao__links__link:hover{
+    background-color: #093c47; /* Cor do fundo */
+    color: #f7f0f0; /* Cor do texto */
 }
