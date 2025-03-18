@@ -1,8 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', 'Times New Roman', Times, serif;
+}
+
 body {
     background-color: #070505; /* Cor de fundo */
     color: #f6f6f6; /* Cor do texto */
 
 }
-strong{
+.titulo-destaque{
     color: #22D4FD; /* Cor do texto */
 }
