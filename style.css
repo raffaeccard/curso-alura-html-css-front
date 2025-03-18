@@ -16,8 +16,9 @@ body {
     color: #22D4FD; /* Cor do texto */
 }
 .apresentacao{
+    margin: 0% 10%;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     height: 100vh;
     text-align: center;
