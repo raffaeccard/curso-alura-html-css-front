@@ -19,16 +19,19 @@ body {
     color: #22D4FD; /* Cor do texto */
 }
 .apresentacao{
-    margin: 0% 10%;
+    margin: 10% 15%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 100vh;
+    height: 50vh;
     text-align: center;
+    gap: 40px;
 }
 
 .apresentacao__conteudo{
     width: 615px;
+    display: flex;
+    flex-direction: column;
 }
 .apresentacao__conteudo__titulo{
     font-size: 36px;
