@@ -12,5 +12,3 @@
 
 ### Raffael Eccard
 
-
-```
